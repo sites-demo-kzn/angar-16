@@ -34,3 +34,6 @@
 .map-panel iframe{display:block;width:100%;height:100%;border:0}
 .messenger{min-height:44px;padding-block:12px;margin-top:8px}
 @media(max-width:600px){.hero{background:#f1f0eb}.map-panel{height:300px}.nav{top:72px}}
+
+/* Plain text actions without decorative arrows. */
+.button{justify-content:center}
